@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 </a>
 </div>
 
+<div>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeMiPark&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
+</div>
+<div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EEFF00,100:a82da8&height=50&section=foother" width="100%"/>
-<div>
