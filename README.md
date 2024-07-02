@@ -20,18 +20,18 @@ Here are some ideas to get you started:
     <div style="flex: 1; display: flex;">
         <div style="width: 40%;">
             <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeMiPark&layout=donut&show_icons=true&theme=outrun&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=40% height="100%"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeMiPark&layout=donut&show_icons=true&theme=outrun&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% height="100%"/>
             </a>    
         </div>
         <div style="width:60%;">
             <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api?username=SaeMiPark&show_icons=true&theme=outrun&hide_border=true&count_private=true" width=60% height=99% />
+                <img src="https://github-readme-stats.vercel.app/api?username=SaeMiPark&show_icons=true&theme=outrun&hide_border=true&count_private=true" width=58% height=99% />
             </a>
         </div>
     </div>
     <div style="flex:1;">
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeMiPark&bg_color=141439&line=ffcc00&color=8080ff&point=F30BE9&title_color=ffcc00" width=60%/>
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeMiPark&bg_color=141439&line=ffcc00&color=8080ff&point=F30BE9&title_color=ffcc00" width=100%/>
         </a>
     </div>
 </div>
