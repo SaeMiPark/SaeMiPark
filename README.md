@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=150&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=150&section=header" width=100%/>
 
 
 <!--
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EEFF00,100:a82da8&height=150&section=foother" width="100%"/>
