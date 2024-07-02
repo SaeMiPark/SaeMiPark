@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <div style="flex: 1; display: flex;">
         <div style="width: 40%;">
             <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeMiPark&layout=donut&show_icons=true&theme=outrun&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38% height="100%"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeMiPark&layout=donut&show_icons=true&theme=outrun&hide_border=true&count_private=true&exclude_repo=Face-Transfer-Application" width=38%/>
             </a>    
         </div>
         <div style="width:60%;">
