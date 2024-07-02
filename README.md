@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeMiPark&bg_color=141439&line=ffcc00&color=8080ff&point=F30BE9&title_color=ffcc00" width=100%/>
 </a>
-<img src="https://github.com/SaeMiPark/SaeMiPark/blob/output/dist/github-snake-dark.svg?color_snake=#58A6FF&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C?palette=github-dark" width="100%">
+<img src="https://github.com/SaeMiPark/SaeMiPark/blob/output/github-snake-dark.svg?color_snake=#58A6FF&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C?palette=github-dark" width="100%">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EEFF00,100:a82da8&height=50&section=foother" width="100%"/>
