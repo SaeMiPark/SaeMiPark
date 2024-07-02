@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=SaeMiPark&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=60% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeMiPark3&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaeMiPark&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EEFF00,100:a82da8&height=50&section=foother" width="100%"/>
